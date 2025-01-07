@@ -1,0 +1,3 @@
+Criar os esquemas:
+sales
+temp_tabless
